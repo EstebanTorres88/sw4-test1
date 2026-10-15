@@ -11,7 +11,7 @@ El sitio incluye la página Inicio y las plantillas `pages/menu.html`, `pages/eq
 | 1 | Las cartas se alinean en formato lista (una debajo de la otra) | styles.css:125: flex-direction: column. | Se elimina styles.css:125. | <img src="./images/incidente_a.png" alt="Coreccion incidente A"> | Dilan Rojas |
 | 2 | | | | | |
 | 3 | | | | | |
-| 4 | | | | | |
+| 4 | Botón del hero tiene un fondo rojo | styles.css:244: background: #bd4d58 | styles.css:244: background: var(--gold) | <img src="./images/incidente_d.png" alt="Coreccion incidente D"> | Dilan Rojas |
 | 5 | | | | | |
 
 ## Responsables de las funcionalidades

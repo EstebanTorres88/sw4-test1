@@ -241,7 +241,7 @@ img {
 }
 
 #hero-action {
-  background: #bd4d58;
+  background: var(--gold);
 }
 @media (max-width: 760px) {
   .nav-inner {
