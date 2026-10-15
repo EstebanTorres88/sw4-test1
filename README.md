@@ -12,7 +12,7 @@ El sitio incluye la página Inicio y las plantillas `pages/menu.html`, `pages/eq
 | 2 | | | | | |
 | 3 | | | | | |
 | 4 | Botón del hero tiene un fondo rojo | styles.css:244: background: #bd4d58 | styles.css:244: background: var(--gold) | <img src="./images/incidente_d.png" alt="Coreccion incidente D"> | Dilan Rojas |
-| 5 | | | | | |
+| 5 | Enlaces del nav se colapsan a > 375px | styles.css:41: no existe flex-wrap: wrap | styles.css:45: flex-wrap: wrap | <img src="./images/incidente_e.png" alt="Coreccion incidente D"> | Dilan Rojas |
 
 ## Responsables de las funcionalidades
 

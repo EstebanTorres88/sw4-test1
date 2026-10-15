@@ -42,6 +42,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-wrap: wrap;
   gap: 24px;
   min-height: 78px;
 }
@@ -211,7 +212,6 @@ img {
 }
 @media (max-width: 760px) {
   .nav-inner {
-    align-items: flex-start;
     flex-direction: column;
     padding-block: 18px;
   }
