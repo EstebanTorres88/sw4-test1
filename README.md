@@ -9,8 +9,8 @@ El sitio incluye la página Inicio y las plantillas `pages/menu.html`, `pages/eq
 | N.º | Comportamiento observado | Causa técnica y ubicación | Corrección realizada | Prueba de verificación | Autor |
 |---|---|---|---|---|---|
 | 1 | | | | | |
-| 2 |Se redirige a una pagina incorrecta y no se cuenta con nav | index.html/linea 15, se usa href="./pages/eventos.html"| Corregir ruta a la pagina correcta en pages/menu.html|<img src ="./images/incidenteII.png"/>|Esteban Torres Jimenez|
-| 3 |El boton no redirige a ninguna pagina |index.html/linea30 se usa href="#" |Especificar ruta a pages/menu.html|<img src = "./images/incidenteIII.png"/> | Esteban Torres Jimenez|
+| 2 | | | | | |
+| 3 | | | | | |
 | 4 | | | | | |
 | 5 | | | | | |
 
