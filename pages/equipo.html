@@ -1,34 +1,114 @@
 <!doctype html>
 <html lang="es">
-  <head>
-    <meta charset="utf-8" />
-    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-    <title>SAVIA | Nuestro equipo</title>
-    <link href="../css/styles.css" rel="stylesheet" />
-  </head>
-  <body>
-    <header class="site-header">
-      <!-- Espacio de trabajo: está pendiente de implementación. -->
-    </header>
 
-    <section class="page-hero">
-      <div class="container">
-        <span class="eyebrow"> SAVIA </span>
-        <h1>Nuestro equipo</h1>
-        <p>Las personas detr&aacute;s de cada experiencia.</p>
-      </div>
+<head>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+  <title>SAVIA | Nuestro equipo</title>
+  <link href="../css/equipo.css" rel="stylesheet" />
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="container nav-inner">
+      <a class="logo" href="../index.html"> SAVIA. </a>
+      <nav aria-label="Navegaci&oacute;n principal" class="nav-links">
+        <a href="../index.html"> Inicio </a>
+        <a class="nav-contact" href="./menu.html"> Nuestra carta </a>
+        <a aria-current="page" href="./equipo.html">Nuestro Equipo</a>
+      </nav>
+    </div>
+  </header>
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow"> SAVIA </span>
+      <h1>Nuestro equipo</h1>
+      <p>Las personas detr&aacute;s de cada experiencia.</p>
+    </div>
+  </section>
+  <main class="section container">
+
+    <nav class="team-navbar" aria-label="Navegación del equipo">
+      <ul class="team-list">
+        <li class="team-list_link"><a href="#jonh-krasinsky">Selección</a></li>
+        <li class="team-list_link"><a href="#mark-gordon">Preparación</a></li>
+        <li class="team-list_link"><a href="#marco-white">Servicio</a></li>
+      </ul>
+    </nav>
+
+    <section class="team-grid">
+
+      <article class="card" id="jonh-krasinsky">
+        <img class="card-img" src="../images/chef1.jpg" alt="Chef principal de nuestro equipo">
+        <div class="card-body">
+          <h3>Jonh Krasinsky</h3>
+          <span class="card-rol">Chef Principal</span>
+          <p>Encargado de los cortes finos especiales</p>
+        </div>
+      </article>
+
+
+      <article class="card" id="mark-gordon">
+        <img class="card-img" src="../images/chef2.jpg" alt="Chef secundario de nuestro equipo">
+        <div class="card-body">
+          <h3>Mark Gordon</h3>
+
+          <span class="card-rol">Chef Secundario</span>
+          <p>Encargado de darle el sazón a las comidas</p>
+        </div>
+      </article>
+
+
+      <article class="card" id="marco-white">
+        <img class="card-img" src="../images/camarero.jpg" alt="Camararero de nuestro equipo">
+        <div class="card-body">
+          <h3>Marco White</h3>
+          <span class="card-rol">Camarero</span>
+          <p>Encargado de servir la comida al tiempo justo</p>
+
+        </div>
+      </article>
+
     </section>
-    <main class="section container">
-      <!-- Espacio de trabajo: esta página está pendiente de implementación. -->
-    </main>
-    <footer class="site-footer">
-      <div class="container footer-inner">
-        <strong> SAVIA. &middot; Cocina con prop&oacute;sito </strong>
-        <p>
-          Proyecto acad&eacute;mico &middot; Sitio de demostraci&oacute;n sin
-          transacciones reales
-        </p>
-      </div>
-    </footer>
-  </body>
+
+  </main>
+
+
+  <section class="section container about-grid">
+    <h2 class="about-title">Cómo trabajamos</h2>
+
+
+    <article>
+      <h3>Etapa 1</h3>
+      <p> Selección con John Krasinsky, Chef Principal, quien define la idea del plato y
+        selecciona cortes e
+        ingredientes. Su entrega es la ficha de receta con ingredientes pesados y cortes listos.
+      </p>
+    </article>
+
+    <article>
+      <h3>Etapa 2</h3>
+      <p> Preparación con Mark Gordon, Chef Secundario, quien aplica sazón y cocción. Su
+        entrega es el plato montado en cocina y verificado en punto y temperatura.</p>
+    </article>
+
+    <article>
+      <h3>Etapa 3</h3>
+      <p> Servicio la cierra Marco White, Camarero, quien verifica presentación en mesa y
+        tiempos de entrega. Si hay un ajuste de sala, lo devuelve a cocina antes de servir,</p>
+    </article>
+
+
+  </section>
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <strong> SAVIA. &middot; Cocina con prop&oacute;sito </strong>
+      <p>
+        Proyecto acad&eacute;mico &middot; Sitio de demostraci&oacute;n sin
+        transacciones reales
+      </p>
+    </div>
+  </footer>
+</body>
+
 </html>
