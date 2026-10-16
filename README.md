@@ -24,7 +24,11 @@ El sitio incluye la página Inicio y las plantillas `pages/menu.html`, `pages/eq
 
 | Funcionalidad/corrección | PR hacia develop | Revisor | Resultado de merge / conflicto si ocurrió |
 | ------------------------ | ---------------- | ------- | ----------------------------------------- |
-|                          |                  |         |                                           |
+|    Bugs                  |  Bugs#1          | Dilan Rojas  |  No ocurrieron conflictos            |
+|    Feature 1: Pagina Menu             |  Feature 1       | Esteban Torres  |  No ocurrieron conflictos           |
+|    Feature 2: Pagina Nuestro Equipo             |  Feature 2       | Esteban Torres  |  Conflictos en el menu.html resueltos           |
+
+
 
 ## Verificación final
 
