@@ -28,8 +28,6 @@ El sitio incluye la página Inicio y las plantillas `pages/menu.html`, `pages/eq
 |    Feature 1: Pagina Menu             |  Feature 1       | Esteban Torres  |  No ocurrieron conflictos           |
 |    Feature 2: Pagina Nuestro Equipo             |  Feature 2       | Esteban Torres  |  Conflictos en el menu.html resueltos           |
 
-
-
 ## Verificación final
 
 Registrar las pruebas de funcionamiento a 1280 px y 375 px, enlaces y páginas.
