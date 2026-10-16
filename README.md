@@ -31,3 +31,27 @@ El sitio incluye la página Inicio y las plantillas `pages/menu.html`, `pages/eq
 ## Verificación final
 
 Registrar las pruebas de funcionamiento a 1280 px y 375 px, enlaces y páginas.
+
+### Home (1280px)
+
+<img src="./images/home.png" />
+
+### Home (375px)
+
+<img src="./images/home_375.png" />
+
+### Nuestra carta (1280px)
+
+<img src="./images/nuestra_carta.png" />
+
+### Nuestra carta (375px)
+
+<img src="./images/nuestra_carta_375.png" />
+
+### Nuestro equipo (1280px)
+
+<img src="./images/nuestro_equipo.png" />
+
+### Nuestro equipo (375px)
+
+<img src="./images/nuestro_equipo_375.png" />
