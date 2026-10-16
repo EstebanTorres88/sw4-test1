@@ -24,8 +24,35 @@ El sitio incluye la página Inicio y las plantillas `pages/menu.html`, `pages/eq
 
 | Funcionalidad/corrección | PR hacia develop | Revisor | Resultado de merge / conflicto si ocurrió |
 | ------------------------ | ---------------- | ------- | ----------------------------------------- |
+|    Bugs                  |  Bugs#1          | Dilan Rojas  |  No ocurrieron conflictos            |
+|    Feature 1: Pagina Menu             |  Feature 1       | Esteban Torres  |  No ocurrieron conflictos           |
+|    Feature 2: Pagina Nuestro Equipo             |  Feature 2       | Esteban Torres  |  Conflictos en el menu.html resueltos           |
 |                          |                  |         |                                           |
 
 ## Verificación final
 
 Registrar las pruebas de funcionamiento a 1280 px y 375 px, enlaces y páginas.
+
+### Home (1280px)
+
+<img src="./images/home.png" />
+
+### Home (375px)
+
+<img src="./images/home_375.png" />
+
+### Nuestra carta (1280px)
+
+<img src="./images/nuestra_carta.png" />
+
+### Nuestra carta (375px)
+
+<img src="./images/nuestra_carta_375.png" />
+
+### Nuestro equipo (1280px)
+
+<img src="./images/nuestro_equipo.png" />
+
+### Nuestro equipo (375px)
+
+<img src="./images/nuestro_equipo_375.png" />
